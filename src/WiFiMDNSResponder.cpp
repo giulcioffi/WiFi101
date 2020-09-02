@@ -21,7 +21,7 @@
 // License along with this library; if not, write to the Free Software
 // Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
 
-#include <avr/pgmspace.h>
+#include <api/deprecated-avr-comp/avr/pgmspace.h>
 #ifndef ARDUINO_ARCH_AVR
 #include <strings.h>
 #endif
